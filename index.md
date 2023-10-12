@@ -4,7 +4,7 @@ layout: homepage
 
 # About Me
 
-I am a Ph.D. student at [Beijing Jiaotong University](https://bjtu.edu.cn){:target="_blank"} (BJTU), supervised by Prof. [Baopeng Zhang](http://faculty.bjtu.edu.cn/8221/){:target="_blank"} and Prof. [Zhu Teng](http://faculty.bjtu.edu.cn/8902/){:target="_blank"}. I was a visiting student with the Computer Vision & Learning Group (VLG), [Singapore University of Technology and Design](https://www.sutd.edu.sg/) (SUTD) from 2022 to 2023, working with Prof.[Jun Liu](https://people.sutd.edu.sg/~jun_liu/){:target="_blank"}. My research interests lie in the general areas of computer vision and machine learning.
+I am currently an Associate Professor (Laoshan Scholar) in the School of Data Science, Qingdao University of Science and Technology (QUST), China. Before joining QUST, I received my Ph.D. degree in the School of Computer and Information Technology, Beijing Jiaotong University (BJTU) in 2023, supervised by Prof. [Baopeng Zhang](http://faculty.bjtu.edu.cn/8221/){:target="_blank"} and Prof. [Zhu Teng](http://faculty.bjtu.edu.cn/8902/){:target="_blank"}. From 2022 to 2023, I was a visiting Ph.D. student with the Computer Vision & Learning Group (VLG), Singapore University of Technology and Design(SUTD), working with Prof.[Jun Liu (https://people.sutd.edu.sg/~jun_liu/){:target="_blank"}. My research interests lie in the general areas of computer vision and machine learning.
 
 ***
 
