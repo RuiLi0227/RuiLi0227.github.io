@@ -28,7 +28,7 @@ I am currently an Assistant Professor (Laoshan Scholar, Distinguished Associate 
 
 - Heterogeneous Diversity Driven Active Learning for Multi-Object Tracking <br>
   **Rui Li**, Baopeng Zhang, Jun Liu, Wei Liu, Jian Zhao, Zhu Teng. <br>
-  International Conference on Computer Vision, 2023 (**ICCV**, **CCF-A**) [PDF]
+  International Conference on Computer Vision, 2023 (**ICCV**, **CCF-A**) [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Heterogeneous_Diversity_Driven_Active_Learning_for_Multi-Object_Tracking_ICCV_2023_paper.pdf){:target="_blank"}
 - Inference-Domain Network Evolution: A New Perspective for One-Shot Multi-Object Tracking <br>
   **Rui Li**, Baopeng Zhang, Jun Liu, Wei Liu, Zhu Teng. <br>
   IEEE Transactions on Image Processing, 2023 (**TIP**, **CCF-A**, **SCI-An1**) [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10091759){:target="_blank"}
