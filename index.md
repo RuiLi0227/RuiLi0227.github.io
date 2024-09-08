@@ -29,8 +29,7 @@ I am currently an Assistant Professor (Distinguished Associate Professor) in the
 
 - HCgNet: A Hierarchical Context-guided Network for Multi-Object Tracking <br>
   **Rui Li**, Baopeng Zhang, Wei Liu, Zhaoyang Li, Jack Fan, Zhu Teng, Jianping Fan. <br>
-  Knowledge-Based Systems, 2024 (**KBS**, **SCI-An1**) [[PDF]]
-  (https://www.sciencedirect.com/science/article/abs/pii/S0950705124004933?via%3Dihub){:target="_blank"}
+  Knowledge-Based Systems, 2024 (**KBS**, **SCI-An1**) [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705124004933?via%3Dihub){:target="_blank"}
 - Heterogeneous Diversity Driven Active Learning for Multi-Object Tracking <br>
   **Rui Li**, Baopeng Zhang, Jun Liu, Wei Liu, Jian Zhao, Zhu Teng. <br>
   International Conference on Computer Vision, 2023 (**ICCV**, **CCF-A**) [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Heterogeneous_Diversity_Driven_Active_Learning_for_Multi-Object_Tracking_ICCV_2023_paper.pdf){:target="_blank"}
