@@ -15,6 +15,7 @@ I am currently an Assistant Professor (Distinguished Associate Professor) in the
 ***
 
 # News
+- 2024.04: Our paper "HCgNet: A Hierarchical Context-guided Network for Multi-Object Tracking" is accepted by **Knowledge-Based Systems (KBS).**
 - 2023.07: Our paper "Heterogeneous Diversity Driven Active Learning for Multi-Object Tracking" is accepted by **ICCV 2023.**
 - 2023.04: Our paper "Inference-Domain Network Evolution: A New Perspective for One-Shot Multi-Object Tracking" is accepted by **IEEE Transactions on Image Processing (TIP).**
 - 2023.04: Our paper "PANet: An end-to-end Network based on Relative Motion for Online Multi-Object Tracking" is accepted by **ACM Transactions on Multimedia Computing, Communications and Applications (TOMM).**
@@ -26,6 +27,10 @@ I am currently an Assistant Professor (Distinguished Associate Professor) in the
 
 \* denotes equal contribution
 
+- HCgNet: A Hierarchical Context-guided Network for Multi-Object Tracking <br>
+  **Rui Li**, Baopeng Zhang, Wei Liu, Zhaoyang Li, Jack Fan, Zhu Teng, Jianping Fan. <br>
+  Knowledge-Based Systems, 2024 (**KBS**, **SCI-An1**) [[PDF]]
+  (https://www.sciencedirect.com/science/article/abs/pii/S0950705124004933?via%3Dihub){:target="_blank"}
 - Heterogeneous Diversity Driven Active Learning for Multi-Object Tracking <br>
   **Rui Li**, Baopeng Zhang, Jun Liu, Wei Liu, Jian Zhao, Zhu Teng. <br>
   International Conference on Computer Vision, 2023 (**ICCV**, **CCF-A**) [[PDF]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Heterogeneous_Diversity_Driven_Active_Learning_for_Multi-Object_Tracking_ICCV_2023_paper.pdf){:target="_blank"}
